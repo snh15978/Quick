@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fdb6c2bd4b5499c0e89c69daf7897ea31016b91">
+        <dex dex="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\pre-dexed\debug\instant-run_ef7ea00f14d7c5df7a169fc6776eabedda1b3efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snh15\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_226bfdc39046b65d327b321627059328264a71a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snh15\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_226bfdc39046b65d327b321627059328264a71a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6d9a599a4d5f40d0024611d1743b07c89593714">
+        <dex dex="C:\Users\snh15\AndroidStudioProjects\NDtwo (21)\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a006cc95e7bb4ab77b66f9a9a9b0ec77a61d988f.jar" />
+    </item>
+
+</items>
